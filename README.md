@@ -1,7 +1,7 @@
 Personal Portfolio - Mai Đào Hoài Bảo
 
-Mô tả dự án
-Đây là website hồ sơ  cá nhân được thiết kế theo kiến trúc SPA. Dự án giúp trưng bày thông tin cá nhân, kỹ năng phát triển phần mềm, thiết kế cơ sở dữ liệu và các dự án thực tế. 
+Mô tả: 
+Đây là website hồ sơ  cá nhân được thiết kế theo kiến trúc SPA, giúp trưng bày thông tin cá nhân, kỹ năng phát triển phần mềm, thiết kế cơ sở dữ liệu và các dự án thực tế. 
 
 Các tính năng nổi bật:
 - Kiến trúc SPA: Điều hướng mượt mà giữa các mục (Info, Dự án, Kinh nghiệm, Sở thích...) thông qua JavaScript mà không cần tải lại trang.
